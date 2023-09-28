@@ -2,7 +2,7 @@
 
 Source code for the [Dusty Sky](https://www.youtube.com/watch?v=K2hwjD5D7L0) animation.
 
-<img src='assets/Cumulative_extinction.gif height=200' />
+<img src='assets/Cumulative_extinction.gif' height=200' />
 
 ## Requirements
 
